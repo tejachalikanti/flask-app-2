@@ -1,0 +1,6 @@
+{
+    "scripts": {
+      "build": "sh install_mysql_dependencies.sh && vercel build"
+    }
+  }
+  
